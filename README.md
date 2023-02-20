@@ -25,7 +25,7 @@ BFS 이용
 - hw10 : 지하철
 최단 경로 찾기
 - hw11 : 정렬 비교
-Quick, Merge, Heap, Insertion Sort 성능 비교교
+Quick, Merge, Heap, Insertion Sort 성능 비교
 - hw12 : AVL 트리 만들기
 
 # Notice
