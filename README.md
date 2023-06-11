@@ -28,5 +28,5 @@ BFS 이용
 Quick, Merge, Heap, Insertion Sort 성능 비교
 - hw12 : AVL 트리 만들기
 
-# Notice
-코드는 모두 학교 양식 + 제가 작성한 코드들로만 이루어졌으며, **오픈 소스 라이센스가 아닙니다**(학교 과제니까요). 과제의 저작권은 모두 홍익대학교 컴퓨터공학과 송하윤 교수님에게 있으며, 따라서 코드 역시 교수님께 귀속되어 있음을 밝힙니다.
+## License
+This repository is licensed under the Apache License 2.0. See [LICENSE](./LICENSE) for more information.
